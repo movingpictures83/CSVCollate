@@ -1,0 +1,2 @@
+Prefix plugins/CSVCollate/example
+Plugin CSVCollate inputfile parameters.tsv outputfile collated.csv
